@@ -1,0 +1,16 @@
+{
+  "name": "CrackedICE",
+  "description": "This is a terrain for your land NFT in Metasphere.",
+  "image": "https://sphere-hub.io/MetasphereData/NFTpng/Terrain/CrackedIce.png",
+  "attributes": [
+    {
+      "trait_type": "Max Supply",
+      "value": "100"
+    },
+    // Weitere Attribute können hier hinzugefügt werden
+  ]
+  // Hier können Sie zusätzliche Eigenschaften hinzufügen, wie z.B.:
+  // "external_url": "https://meinewebsite.com/nft/1",
+  // "animation_url": "https://meinewebsite.com/animation/1.mp4",
+  // "youtube_url": "https://www.youtube.com/watch?v=12345678"
+}
